@@ -1,4 +1,4 @@
-PNG-Comression
+PNG-Compression
 ==============
 
 Compress PNG file upto 80% without losing it's quality. (Mac User Only - Other users can get more information from http://pngquant.org/)
