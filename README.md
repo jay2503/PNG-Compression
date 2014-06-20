@@ -5,6 +5,25 @@ Compress PNG file upto 80% without losing it's quality.
 
 Comparison
 -----------
+**Original Image - 370 KB**
+
+[![Folder Compression](https://raw.githubusercontent.com/jay2503/PNG-Comression/master/Examples/bike_original.png)](#FolderCompression)
+
+**Compressed with 256 bit Image - 109 KB (70.5% save)**
+
+[![Folder Compression](https://raw.githubusercontent.com/jay2503/PNG-Comression/master/Examples/bike_256bit.png)](#FolderCompression)
+
+**Compressed with 128 bit Image - 87 KB (76.5% save)**
+
+[![Folder Compression](https://raw.githubusercontent.com/jay2503/PNG-Comression/master/Examples/bike_128bit.png)](#FolderCompression)
+
+**Compressed with 64 bit Image - 69 KB (81.3% save)**
+
+[![Folder Compression](https://raw.githubusercontent.com/jay2503/PNG-Comression/master/Examples/bike_64bit.png)](#FolderCompression)
+
+**Compressed with 32 bit Image - 55 KB (85.1% save)**
+
+[![Folder Compression](https://raw.githubusercontent.com/jay2503/PNG-Comression/master/Examples/bike_32bit.png)](#FolderCompression)
 
 
 Steps to Install pngquant library
