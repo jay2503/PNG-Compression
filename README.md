@@ -16,6 +16,7 @@ Install Workflows
 -----------
 
 Option 1 : Double click on any workflow, it will prompt for installation click on Install, see below screenshot for reference.
+
 **Workflow installation**
 [![Workflow installation](https://raw.githubusercontent.com/jay2503/PNG-Comression/master/Screenshots/Workflow.png)](#Workflow)
 
@@ -25,8 +26,10 @@ How to Use
 -----------
 
 Workflows can we used on any folder and or selected files or any single file by just right click and click on required service, see below screenshots for reference
+
 **Folder Compression**
 [![Folder Compression](https://raw.githubusercontent.com/jay2503/PNG-Comression/master/Screenshots/FolderCompression.png)](#FolderCompression)
+
 
 **File Compression**
 [![File Compression](https://raw.githubusercontent.com/jay2503/PNG-Comression/master/Screenshots/FileCompression.png)](#FileCompression)
