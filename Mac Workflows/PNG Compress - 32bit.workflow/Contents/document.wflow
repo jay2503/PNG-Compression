@@ -59,7 +59,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>find "$@" -name '*.png' -exec /Software/pngquant/pngquant --ext .png --force 32 {} \;</string>
+					<string>find "$@" -name '*.png' -exec pngquant --ext .png --force 32 {} \;</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
