@@ -17,7 +17,7 @@ Install Workflows
 
 Option 1 : Double click on any workflow, it will prompt for installation click on Install, see below screenshot for reference.
 **Workflow installation**
-[![Workflow installation](https://raw.github.com/jay2503/PNG-Compression/master/Screenshots/Workflow.png)](#Workflow)
+[![Workflow installation](https://github.com/jay2503/PNG-Comression/blob/master/Screenshots/Workflow.png)](#Workflow)
 
 Option 2 : Copy all .workflow files to "~/Library/Services/" folder.
 
